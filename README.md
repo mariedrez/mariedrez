@@ -4,4 +4,4 @@ Hi there 👋🏼 I'm @mariedrez, a linguistics-data nerd and Data Science gradu
 - 🐍 Python is my main coding language, but I'm also learning 💈 Scala and ®️ R
 - 🐝 🐝 Looking to collaborate with future colleagues and like-minded tech wizards
 - 🔭 Computer Vision-based and Natural Language Processing projects excite me the most
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/maryam111/)) 
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([<a href="[placeholder.com](https://www.linkedin.com/in/maryam111/)" target="_blank">Opens in new tab</a> [https://www.linkedin.com/](https://www.linkedin.com/in/maryam111/)]) 
